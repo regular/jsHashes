@@ -1,5 +1,6 @@
 {
   "name": "jsHashes",
+  "repo": "regular/jsHashes"
   "version": "1.0.2",
   "main": "hashes.js",
   "ignore": [
